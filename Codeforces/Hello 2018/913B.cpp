@@ -75,7 +75,7 @@ int main(){
 		for (auto& it : go[i]){
 			child[i] -= (child[it] >= 1);
 		}
-		benar = (child[i] == 0 || child[i] >= 3);
+		benar = (g[i].size() == 1 || child[i] >= 3);
 	}
 	puts(benar ? "Yes" : "No");
 	return 0;
