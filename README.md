@@ -21,6 +21,9 @@ Programming Language usually like to use:
 - `Python` (when the data structure is so complex when code in C++ and Java)
 - `Pascal` (just for heat myself when starting to code)
 
+## Teammate!
+Of course, doing Competitive Programming without teammate is a boring stuff. So, in this part I'll do simple introduction my current teammate and past teammate (TBA)
+
 ## Template for Coding
 <details>
   <summary>
