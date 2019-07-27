@@ -11,7 +11,7 @@ My Profile in some site for training Competitive Programming:
 - <img src="https://hrcdn.net/hackerrank/assets/favicon-5bb50091f1911aa90950eca8b575d496.ico" alt="HackerRank" width="20px" height="20px"> [`HackerRank`](http://hackerrank.com/reiva5 "HackerRank")
 - <img src="https://open.kattis.com/favicon" alt="Open Kattis" width="20px" height="20px"> [`Open Kattis`](http://open.kattis.com/users/reiva5 "Open Kattis")
 - <img src="https://tlx.toki.id/static/media/logo-header.16331f90.png" alt="TLX" width="20px" height="20px"> [`TLX`](http://tlx.toki.id/profiles/jehian_norman_s)
-- <img src="https://media.licdn.com/dms/image/C560BAQHvc4E_iITXsQ/company-logo_400_400/0?e=1557964800&v=beta&t=v3kd5zN-glHTy2A4D3Wm49VFPRLRZyw9wbRp_P3m6GQ" alt="Topcoder" width="20px" height="20px"> [`Topcoder`](http://topcoder.com/profile/jehian_norman_s "Codeforces")
+- <img src="https://alternative.me/icons/topcoder.jpg" alt="Topcoder" width="20px" height="20px"> [`Topcoder`](http://topcoder.com/profile/jehian_norman_s "Codeforces")
 
 Still need training myself to be great coder :D.
 
